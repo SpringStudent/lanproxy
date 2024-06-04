@@ -1,3 +1,4 @@
+[README](README_en.md) | [中文文档](README.md)
 ### lanproxy use mysql
 
 source repository:https://github.com/ffay/lanproxy
