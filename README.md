@@ -1,4 +1,4 @@
-[README](README_en.md) | [中文文档](README.md)
+[English](README_en.md) | [中文](README.md)
 ### lanproxy的mysql版本
 
 源仓库地址:https://github.com/ffay/lanproxy
